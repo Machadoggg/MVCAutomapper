@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAutomapper", "MVCAutomapper\MVCAutomapper.csproj", "{312AE3FE-D8AD-4C71-9AAE-105CAB028930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312AE3FE-D8AD-4C71-9AAE-105CAB028930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312AE3FE-D8AD-4C71-9AAE-105CAB028930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312AE3FE-D8AD-4C71-9AAE-105CAB028930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312AE3FE-D8AD-4C71-9AAE-105CAB028930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA971FF9-AFCC-4037-8019-AB711D05527F}
+	EndGlobalSection
+EndGlobal
